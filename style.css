@@ -1,0 +1,95 @@
+body{
+    background-color:  hsl(185, 75%, 39%);   
+    width: 1440px;
+    font-family: 'Kumbh Sans' , sans-serif;
+}
+.top{
+    width: 800px; 
+    height: 800px;
+    margin-top: -450px;
+    margin-left: -200px;
+}
+.bottom{
+    width: 800px; 
+    height: 800px;
+    margin-left: 640px;
+    margin-top: -20px;
+}
+.card{
+    background-color: white;
+    width: 320px;
+    height: 355px;
+    border-radius: 10px;
+    text-align: center;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+.cardbackg{
+    width: 320px;
+    height: 140px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+.pdp{
+    border-radius: 50%;
+    border: 3px solid white;
+    margin-top: -30px;
+}
+.name{
+    padding: 5px;
+}
+.name h2{
+    color: hsl(229, 23%, 23%);
+    font-size: 18px;
+    margin: 0;
+}
+.name p{
+    color: gray;
+    font-size: 14px;
+    margin: 10px 0 20px;
+}
+.stats{
+    display: flex;
+    justify-content: space-around;
+    border-top: 1px solid #eee;
+    padding: 20px 5px;
+}
+.stat1{
+    text-align: center;
+}
+.stat1 h3{
+    margin: 0;
+    font-size: 16px;
+}
+.stat1 p{
+    margin: 0;
+    color: gray;
+    font-size: 12px;
+}
+.stat2{
+    text-align: center;
+}
+.stat2 h3{
+    margin: 0;
+    font-size: 16px;
+}
+.stat2 p{
+    margin: 0;
+    color: gray;
+    font-size: 12px;
+}
+.stat3{
+    text-align: center;
+}
+.stat3 h3{
+    margin: 0;
+    font-size: 16px;
+}
+.stat3 p{
+    margin: 0;
+    color: gray;
+    font-size: 12px;
+}
